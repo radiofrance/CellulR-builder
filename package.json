@@ -1,0 +1,46 @@
+{
+  "name": "webcomponents",
+  "version": "1.0.0",
+  "author": {
+    "name": "Radio France"
+  },
+  "contributors": [
+    {
+      "name": "Nans Pellicari",
+      "email": "nans.pellicari@gmail.com"
+    },
+    {
+      "name": "Yoan Guillemin",
+      "email": "yoann.guillemin@radiofrance.com"
+    }
+  ],
+  "dependencies": {
+    "browserify": "latest",
+    "pad": "^1.0.0",
+    "gulp": "~3.9.1",
+    "gulp-util": "~3.0.7",
+    "events": "~1.1.1"
+  },
+  "description": "Libraries and tools used for webcomponent system at Radio France",
+  "devDependencies": {},
+  "engines": {
+    "node": "4.3.1"
+  },
+  "keywords": [
+    "component",
+    "webcomponents"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "optionalDependencies": {},
+  "readme": "",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.dnm.radiofrance.fr:webcomponents/webcomponents.git"
+  },
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
