@@ -10,8 +10,8 @@
       "email": "nans.pellicari@gmail.com"
     },
     {
-      "name": "Yoan Guillemin",
-      "email": "yoann.guillemin@radiofrance.com"
+      "name": "Radio France",
+      "email": "opensource@radiofrance.com"
     }
   ],
   "dependencies": {
@@ -29,7 +29,7 @@
   "keywords": [
     "CellulR"
   ],
-  "license": "MIT",
+  "license": "CECILL-B",
   "main": "./index.js",
   "optionalDependencies": {},
   "readme": "",
