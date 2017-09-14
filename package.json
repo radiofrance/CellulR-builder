@@ -1,6 +1,6 @@
 {
-  "name": "webcomponents",
-  "version": "1.0.0",
+  "name": "radiofrance/cellulr-builder",
+  "version": "4.0.0",
   "author": {
     "name": "Radio France"
   },
@@ -27,8 +27,7 @@
     "node": "4.3.1"
   },
   "keywords": [
-    "component",
-    "webcomponents"
+    "CellulR"
   ],
   "license": "MIT",
   "main": "./index.js",
@@ -37,7 +36,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git@gitlab.dnm.radiofrance.fr:webcomponents/webcomponents.git"
+    "url": "git@github.com:radiofrance/CellulR-builder.git"
   },
   "scripts": {
     "build": "gulp",
