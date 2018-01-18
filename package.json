@@ -24,7 +24,7 @@
   "description": "Libraries and tools used for webcomponent system at Radio France",
   "devDependencies": {},
   "engines": {
-    "node": "4.3.1"
+    "node": ">=4.3.1"
   },
   "keywords": [
     "CellulR"
